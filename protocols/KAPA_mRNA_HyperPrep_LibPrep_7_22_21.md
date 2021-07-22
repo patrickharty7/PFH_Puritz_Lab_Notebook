@@ -1,3 +1,11 @@
+---
+layout: post
+title: KAPA_mRNA_HyperPrep_LibPrep_7_22_21
+date: '2021-07-22'
+categories: Goals
+tags: 
+---
+
 7-1-2021
 # KAPA mRNA Hyperprep Kit (1/2 reactions)
  
@@ -53,3 +61,13 @@
 ** A-Tailing -> 10 min 62C
 ** Hold -> 4C
 * Place tube on ice immediately and proceed to *Adapter Ligation*
+
+## Adapter Ligation
+
+* Dilute Adapters in preparation for ligation, targeting the following concentrations
+** 50-499 ng -> 1.5uM
+** 500-1000 ng -> 7 uM
+* On ice add 20 ul of the Adapter Ligation master mix, and 2.5 ul of diluted adapter stock
+* Keeping the tube on ice, mix thoroughly by gently pipetting up and down
+* Incubate at 20C for 15 min in the Thermocycler
+* Proceed immediately to *1st Post-Ligation Cleanup*
