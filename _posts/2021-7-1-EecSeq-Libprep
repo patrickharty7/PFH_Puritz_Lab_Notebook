@@ -1,6 +1,6 @@
 7/1/2021
 # EecSeq Library Prep
-### Goals:
+## Goals:
 * Determine concentration per sample needed for 4000 ng between 12 samples
 * Using concentration per ul determine volume per sample needed
 * Create 3 pools for each Library, 150 bp fragment size, 250 bp fragment size, 350 bp fragment size
@@ -21,3 +21,5 @@
 * kic.2.3.g = 2.84 ul
 * mcd.1.3.g = 1.35 ul
 * mcd.2.3.g = 1.52 ul
+
+## Continue to KAPA mRNA Hyperprep Kit Protocol
