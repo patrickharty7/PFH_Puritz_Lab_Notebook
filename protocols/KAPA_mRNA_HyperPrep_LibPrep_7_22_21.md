@@ -30,18 +30,18 @@ tags:
 * Place on magnet and remove supernatant
 * Remove from magnet and resuspend in 100ul of mRNA bead wash buffer
 * Place on magnet and remove entire volume of supernatant
-* Proceed immediately to *mRNA Elution, Fragmentation, and Priming*
+* Proceed immediately to **mRNA Elution, Fragmentation, and Priming**
 
 ## mRNA Elution, Fragmentation, and Priming
 
-* Resuspend capture beads with mRNA in 11 ul FPE buffer (*SAFE STOPPING POINT*) 
+* Resuspend capture beads with mRNA in 11 ul FPE buffer (**SAFE STOPPING POINT**) 
 * IF STOPPING ONLY; resuspend beads with captured mRNA may be stored at 2C to 8C for less than 24 hours. Do not freeze samples. When ready proceed to next step. 
 * Incubate in Thermocycler:
 ** 100-200 bp -> 8 min 94C
 ** 200-300 bp -> 6 min 94C
 ** 300-400 bp -> 6 min 85C
 * Immediately place on magnet, remove 10 ul supernatant and place in separate tube
-* Place tube on ice and proceed to *1st Strand Synthesis*
+* Place tube on ice and proceed to **1st Strand Synthesis**
 
 ## 1st Strand Synthesis
 
@@ -51,7 +51,7 @@ tags:
 ** 1st Strand Synthesis -> 15 min 42C 
 ** Enzyme reactivation -> 15 min 70C
 ** Hold -> 4C 
-* Place tube on ice immediately and proceed to *2nd Strand Synthesis and A-Tailing*
+* Place tube on ice immediately and proceed to **2nd Strand Synthesis and A-Tailing**
 
 ## 2nd Strand Synthesis and A-Tailing
 
@@ -60,7 +60,7 @@ tags:
 ** 2nd Strand Synthesis -> 30 min 16C
 ** A-Tailing -> 10 min 62C
 ** Hold -> 4C
-* Place tube on ice immediately and proceed to *Adapter Ligation*
+* Place tube on ice immediately and proceed to **Adapter Ligation**
 
 ## Adapter Ligation
 
@@ -70,4 +70,4 @@ tags:
 * On ice add 20 ul of the Adapter Ligation master mix, and 2.5 ul of diluted adapter stock
 * Keeping the tube on ice, mix thoroughly by gently pipetting up and down
 * Incubate at 20C for 15 min in the Thermocycler
-* Proceed immediately to *1st Post-Ligation Cleanup*
+* Proceed immediately to **1st Post-Ligation Cleanup**
