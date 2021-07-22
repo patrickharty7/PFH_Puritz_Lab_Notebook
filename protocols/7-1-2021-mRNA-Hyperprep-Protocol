@@ -21,8 +21,11 @@
 * Incubate at 20C in Thermocycler for 5 min
 * Place on magnet and remove supernatant
 * Remove from magnet and resuspend in 100ul of mRNA bead wash buffer
-* Place on magnet and remove supernatant
-* Resuspend capture beads with mRNA in 11 ul FPE buffer
+* Place on magnet and remove entire volume of supernatant
+
+## mRNA Elution, Fragmentation, and Priming
+
+* Resuspend capture beads with mRNA in 11 ul FPE buffer (*SAFE STOPPING POINT*) 
 * Send to Thermocycler:
 ** 100-200 bp -> 8 min 94C
 ** 200-300 bp -> 6 min 94C
