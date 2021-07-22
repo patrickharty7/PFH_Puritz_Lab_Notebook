@@ -64,7 +64,7 @@ tags:
 
 ## Adapter Ligation
 
-* Dilute Adapters in preparation for ligation, targeting the following concentrations
+* Dilute Adapters in preparation for ligation, targeting the following concentrations:
   * 50-499 ng -> 1.5uM
   * 500-1000 ng -> 7 uM
 * On ice add 20 ul of the Adapter Ligation master mix, and 2.5 ul of diluted adapter stock
