@@ -14,7 +14,7 @@ tags:
 * Prepare libraries and sample pools
 * Prepare Fragment, Prime, and Elution Buffer (1X), 1st Strand Synthesis Buffer, 2nd Strand Synthesis, Ligation Master Mix
 * Suspend RNA, 19.42 ul total volume
-* add 6.58 ul of RNAse free water
+* add 5.58 ul of RNAse free water
 * Add 26.25 ul of resuspended mRNA capture beads to each library (3)
 * Place tube w/ capture beads on magnet and incubate at room temperature until clear
 * Remove and discard supernatant, replace immediately with equal volume mRNA bead binding buffer (26.25 ul per library)
