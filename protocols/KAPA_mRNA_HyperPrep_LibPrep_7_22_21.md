@@ -10,7 +10,8 @@ tags:
 # KAPA mRNA Hyperprep Kit (1/2 reactions)
  
 ## mRNA Capture
- 
+
+
 * Prepare libraries and sample pools
 * Prepare Fragment, Prime, and Elution Buffer (1X), 1st Strand Synthesis Buffer, 2nd Strand Synthesis, Ligation Master Mix
 * Suspend RNA, 19.42 ul total volume
@@ -23,9 +24,24 @@ tags:
 * Remove and discard supernatant
 * Transfer 25 ul of resuspended mRNA capture beads to each library sample tube
 * Add 50 ul of sample to each tube and resuspend
-* Place tube in Thermocycler for 1st mRNA capture
+* Place tube in Thermocycler for 1st mRNA capture:
+
+| Step| Time| Temp|
+| ----| ----| ----|
+| 1st mRNA Capture| 2 min| 65C|
+| Cool| 5 min| 20C|
+
 * Place tube on magnet and remove supernatant
+* Remove from magnet and resuspend beads in 100ul of mRNA Bead Wash Buffer
+* Place tube on magnt and remove supernatant 
 * Resuspend beads in 25 ul of RNAse free water
+
+| Step| Time| Temp|
+| ----| ----| ----|
+| 2nd mRNA Capture| 2 min| 70C|
+| Cool| 5 min| 20C|
+
+* Add 25ul of bead binding buffer and mix thoroughly by pipetting up and down
 * Incubate at 20C in Thermocycler for 5 min
 * Place on magnet and remove supernatant
 * Remove from magnet and resuspend in 100ul of mRNA bead wash buffer
@@ -33,6 +49,12 @@ tags:
 * Proceed immediately to **mRNA Elution, Fragmentation, and Priming**
 
 ## mRNA Elution, Fragmentation, and Priming
+
+| Component| Volume Per Sample|
+| ---------| -----------------| 
+| RNase-free Water| 11ul|
+| Fragment, Prime, and Elute Buffer(2X)| 11ul|
+| TOTAL VOLUME| 22ul|
 
 * Resuspend capture beads with mRNA in 11 ul FPE buffer (**SAFE STOPPING POINT**) 
 * IF STOPPING ONLY; resuspend beads with captured mRNA may be stored at 2C to 8C for less than 24 hours. Do not freeze samples. When ready proceed to next step. 
@@ -47,6 +69,8 @@ tags:
 * Place tube on ice and proceed to **1st Strand Synthesis**
 
 ## 1st Strand Synthesis
+
+| Component| Volume|
 
 * On ice add 5ul of the 1st Strand Synthesis master mix and mix by pipetting gently
 * Incubate in Thermocycler:
@@ -77,8 +101,8 @@ tags:
 
 * Dilute Adapters in preparation for ligation, targeting the following concentrations:
 
-| Fragment Range| Concentration|
-| --------------| -------------|
+| Quantity of Material| Concentration|
+| --------------------| -------------|
 | 50-499 ng| 1.5uM|
 | 500-1000 ng| 7 uM|
 
