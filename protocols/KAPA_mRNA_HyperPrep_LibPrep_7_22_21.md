@@ -86,5 +86,38 @@ tags:
 
 ## 2nd Post-Ligation Cleanup
 
-* 
-*
+* Add 17.5ul of PEG/NaCl solution and mix by vortexing softly or pipetting up and down
+* Incubate tubes at room temperature for 15 min
+* Place tube on magnet and incubate at room temperature until clear
+* Remove and discard 40ul supernatant, keeping on magnet add 200ul EtOH
+* Incubate for 30 seconds then remove and discard full volume EtOH, add 200ul EtOH
+* Incubate for 30 seconds then remove and discard full volume EtOH, removing all EtOH
+* Dry beads for 2-5 mins, then remove tube from magnet
+* Thoroughly resuspend beads in 11ul 10mM Trish-HCl and incubate for 2-5 min
+* Place on magnet and remove as much supernatant as possible, transfering to a new tube
+* (**SAFE STOPPING POINT**) If stopping place in 2C-8C freezer, when ready proceed to **Library Amplification**
+
+## Library Amplification
+
+* Add 15ul of Library Amplification Master Mix to sample tube, mix thoroughly by pipetting
+* Amplify the library using the following profile:
+  * Initial denaturation -> 45 sec 98C for 1 cycle
+    * Denaturation -> 15 sec 98C for x cycles
+    * Annealing -> 30 sec 60C for x cycles
+    * Extension -> 30 sec 72C for x cycles
+  * Final Extension -> 1 min 72C for 1 cycle
+  * HOLD -> 4C
+* Proceed immediately to **Library Amplification Cleanup**
+
+## Library Amplification Cleanup
+
+* Add 25ul of KAPA Pure Beads and resuspend DNA
+* Incubate at room temperature for 15 min
+* Place tube on magnet and incubate until liquid is clear
+* Remove and discard 47.5ul of supernatant, keeping on magnet add 200ul EtOh
+* Incubate for 30 seconds then remove and discard full volume EtOH, add 200ul EtOH
+* Incubate for 30 seconds then remove and discard full volume EtOH, removing all EtOH
+* Dry beads for 2-5 mins, then remove tube from magnet
+* Thoroughly resuspend beads in 22ul 10mM Trish-HCl and incubate for 2-5 min
+* Place on magnet and remove as much supernatant as possible, transfering to a new tube
+* Store dscDNA in a -15C to -25C freezer
