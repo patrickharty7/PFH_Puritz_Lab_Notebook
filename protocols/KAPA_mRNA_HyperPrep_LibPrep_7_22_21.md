@@ -71,3 +71,19 @@ tags:
 * Keeping the tube on ice, mix thoroughly by gently pipetting up and down
 * Incubate at 20C for 15 min in the Thermocycler
 * Proceed immediately to **1st Post-Ligation Cleanup**
+
+## 1st Post-Ligation Cleanup
+
+* Add 35ul of KAPA Pure Beads and mix by vortexing or pipetting thoroughly
+* Incubate tubes at room temperature for 15 min
+* Place tube w/ Pure beads on magnet and incubate at room temperature until clear
+* Remove and discard 85ul supernatant, keeping on magnet add 200ul of 80% EtOH
+* Incubate for 30 seconds then remove and discard full volume EtOH, add 200ul EtOH
+* Incubate for 30 seconds then remove and discard full volume EtOH, removing all EtOH
+* Dry beads for 2-5 mins, then remove tube from magnet
+* Thoroughly resuspend beads in 25ul 10mM Tris-HCl and incubate for 2-5 min
+* (**SAFE STOPPING POINT**) If stopping place in 2C-8C freezer, when ready proceed to **2nd Post-Ligation Cleanup**
+
+## 2nd Post-Ligation Cleanup
+
+* 
