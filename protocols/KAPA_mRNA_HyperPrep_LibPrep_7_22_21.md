@@ -37,8 +37,10 @@ tags:
 * Resuspend capture beads with mRNA in 11 ul FPE buffer (**SAFE STOPPING POINT**) 
 * IF STOPPING ONLY; resuspend beads with captured mRNA may be stored at 2C to 8C for less than 24 hours. Do not freeze samples. When ready proceed to next step. 
 * Incubate in Thermocycler:
-|100-200 bp | 8 min 94C|
-|200-300 bp | 6 min 94C|
+| Fragment Size| Time| Temp|
+| -------------| ----| ----|
+|100-200 bp | 8 min| 94C|
+|200-300 bp | 6 min| 94C|
   * 300-400 bp -> 6 min 85C
 * Immediately place on magnet, remove 10 ul supernatant and place in separate tube
 * Place tube on ice and proceed to **1st Strand Synthesis**
