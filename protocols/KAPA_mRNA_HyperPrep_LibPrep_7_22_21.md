@@ -50,26 +50,38 @@ tags:
 
 * On ice add 5ul of the 1st Strand Synthesis master mix and mix by pipetting gently
 * Incubate in Thermocycler:
-  * Primer extension -> 10 min 25C
-  * 1st Strand Synthesis -> 15 min 42C 
-  * Enzyme reactivation -> 15 min 70C
-  * Hold -> 4C 
+
+| Component| Time| Temp|
+| ---------| ----| ----|
+| Primer extension| 10 min| 25C|
+| 1st Strand Synthesis| 15 min| 42C| 
+| Enzyme reactivation| 15 min| 70C|
+| Hold| ∞| 4C| 
+
 * Place tube on ice immediately and proceed to **2nd Strand Synthesis and A-Tailing**
 
 ## 2nd Strand Synthesis and A-Tailing
 
 * On ice add 15ul of the 2nd Strand Synthesis and A-Tailing master mix and mix by pipetting gently
 * Incubate in Thermocycler:
-  * 2nd Strand Synthesis -> 30 min 16C
-  * A-Tailing -> 10 min 62C
-  * Hold -> 4C
+
+| Step| Time| Temp|
+| ----| ----| ----|
+| 2nd Strand Synthesis| 30 min| 16C|
+| A-Tailing| 10 min| 62C|
+| Hold| ∞| 4C|
+
 * Place tube on ice immediately and proceed to **Adapter Ligation**
 
 ## Adapter Ligation
 
 * Dilute Adapters in preparation for ligation, targeting the following concentrations:
-  * 50-499 ng -> 1.5uM
-  * 500-1000 ng -> 7 uM
+
+| Fragment Range| Concentration|
+| --------------| -------------|
+| 50-499 ng| 1.5uM|
+| 500-1000 ng| 7 uM|
+
 * On ice add 20 ul of the Adapter Ligation master mix, and 2.5 ul of diluted adapter stock
 * Keeping the tube on ice, mix thoroughly by gently pipetting up and down
 * Incubate at 20C for 15 min in the Thermocycler
