@@ -149,6 +149,7 @@ tags:
 ## 2nd Post-Ligation Cleanup
 
 | Component| Volume| 
+| ---------| ------|
 | Beads with Purified, Adapter-Ligated DNA| 25ul|
 | PEG/NaCL Solution| 17.5ul|
 | TOTAL VOLUME| 42.5ul| 
