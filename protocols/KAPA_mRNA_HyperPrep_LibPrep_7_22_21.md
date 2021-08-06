@@ -71,6 +71,10 @@ tags:
 ## 1st Strand Synthesis
 
 | Component| Volume|
+| ---------| ------|
+| Fragmented, primed RNA eluted from beads| 20ul| 
+| 1st Strand Synthesis Master Mix| 10ul|
+| TOTAL VOLUME| 30ul| 
 
 * On ice add 5ul of the 1st Strand Synthesis master mix and mix by pipetting gently
 * Incubate in Thermocycler:
@@ -86,6 +90,12 @@ tags:
 
 ## 2nd Strand Synthesis and A-Tailing
 
+| Component| Volume|
+| ---------| ------| 
+| 1st Strand Synthesis Product| 30ul|
+| 2nd Strand Synthesis and A-Tailing Master Mix| 30ul|
+| TOTAL VOLUME| 60ul|
+
 * On ice add 15ul of the 2nd Strand Synthesis and A-Tailing master mix and mix by pipetting gently
 * Incubate in Thermocycler:
 
@@ -98,6 +108,13 @@ tags:
 * Place tube on ice immediately and proceed to **Adapter Ligation**
 
 ## Adapter Ligation
+
+| Component| Volume|
+| ---------| ------| 
+| 2nd Strand Synthesis Product| 60ul|
+| Adapter Ligation Master Mix| 45ul|
+| Diluted Adapter Stock| 5ul|
+| TOTAL VOLUME| 110ul|
 
 * Dilute Adapters in preparation for ligation, targeting the following concentrations:
 
@@ -113,6 +130,12 @@ tags:
 
 ## 1st Post-Ligation Cleanup
 
+| Component| Volume| 
+| ---------| ------| 
+| Adapter-Ligated DNA| 110ul|
+| KAPA Pure Beads| 70ul| 
+| TOTAL VOLUME| 180ul| 
+
 * Add 35ul of KAPA Pure Beads and mix by vortexing or pipetting thoroughly
 * Incubate tubes at room temperature for 15 min
 * Place tube w/ Pure beads on magnet and incubate at room temperature until clear
@@ -124,6 +147,11 @@ tags:
 * (**SAFE STOPPING POINT**) If stopping place in 2C-8C freezer, when ready proceed to **2nd Post-Ligation Cleanup**
 
 ## 2nd Post-Ligation Cleanup
+
+| Component| Volume| 
+| Beads with Purified, Adapter-Ligated DNA| 25ul|
+| PEG/NaCL Solution| 17.5ul|
+| TOTAL VOLUME| 42.5ul| 
 
 * Add 17.5ul of PEG/NaCl solution and mix by vortexing softly or pipetting up and down
 * Incubate tubes at room temperature for 15 min
@@ -138,17 +166,33 @@ tags:
 
 ## Library Amplification
 
+| Component| Volume|
+| ---------| ------| 
+| Purified, Adapter-Ligated DNA| 10ul|
+| Library Amplification Master Mix| 15ul|
+| TOTAL VOLUME| 25ul|
+
 * Add 15ul of Library Amplification Master Mix to sample tube, mix thoroughly by pipetting
 * Amplify the library using the following profile:
-  * Initial denaturation -> 45 sec 98C for 1 cycle
-    * Denaturation -> 15 sec 98C for x cycles
-    * Annealing -> 30 sec 60C for x cycles
-    * Extension -> 30 sec 72C for x cycles
-  * Final Extension -> 1 min 72C for 1 cycle
-  * HOLD -> 4C
+
+| Step| Time| Temp| Cycles|
+| ----| ----| ----| ------| 
+| Initial Denaturation| 45 sec| 98C| 1 cycle| 
+| Denaturation| 15 sec| 98C| x cycles|
+| Annealing| 30 sec| 60C| x cycles|
+| Extension| 30 sec| 72C| x cycles|
+| Final Extension| 1 min| 72C| 1 cycle|
+| HOLD| ∞| 4C| NA|
+
 * Proceed immediately to **Library Amplification Cleanup**
 
 ## Library Amplification Cleanup
+
+| Component| Volume|
+| ---------| ------| 
+| Adapter-Ligated DNA| 25ul|
+| KAPA Pure Beads| 25ul|
+| TOTAL VOLUME| 50ul|
 
 * Add 25ul of KAPA Pure Beads and resuspend DNA
 * Incubate at room temperature for 15 min
