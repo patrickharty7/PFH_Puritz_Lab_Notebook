@@ -24,3 +24,12 @@
 * Incubate at 20C for 5 min in thermocycler
 * Place on magnet and remove supernatant
 * Remove from magnet and resuspend in 100 ul mRNA bead wash buffer
+* Place tube on magnet and remove supernatant
+* Prepare 33 ul of FPE (Fragment, Prime, and Elution) bufffer
+* Resuspend capture beads in 11 ul FPE buffer
+* Send to Thermocycler:
+** 100-200 bp : 8 min 94C
+** 200-300 bp : 6 min 94C
+** 300-400 bp : 6 min 85C
+* Immediately place on magnet, remove 10 ul of supernatant and place in separate tube
+* Place on ice and proceed to 1st Strand Synthesis
